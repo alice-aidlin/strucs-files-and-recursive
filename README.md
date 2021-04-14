@@ -1,1 +1,0 @@
-# strucs-files-and-recursive
